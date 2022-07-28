@@ -147,3 +147,19 @@ body {
     height: 55px;
     padding-left: 90px;
 }
+
+@media (max-width: 500px) {
+    .header__contianer {
+        width: 80px;
+    }
+    .header__logo1 {
+        width: 50px;
+        height: 24px;
+    }
+    .header__lible {
+        width: 60px;
+        padding-bottom: 23px;
+        font-size: 32px;
+        text-align: center;
+    }
+}
