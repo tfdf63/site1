@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/sass/style.sass
+/sass
 
 # testing
 /coverage
